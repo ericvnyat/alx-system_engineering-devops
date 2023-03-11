@@ -1,3 +1,2 @@
-#!/bin/bas
-mv betty /tmp/my_first_diretory
-
+#!bin/bash
+mv betty /tmp/my_first_directory
