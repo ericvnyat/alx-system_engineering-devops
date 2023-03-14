@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Create the file with touch and the file name given in the prompt
-touch '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+touch '*\\'"Best School"\'\\*$\?\*\*\*\*\*:'
 
 # Write "Best School" followed by a newline character to the file using echo
-echo "Best School" >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+echo "Best School" >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:'
+
 
