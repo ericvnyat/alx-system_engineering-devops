@@ -1,3 +1,2 @@
 #!/bin/bash
-dir_count=$(find . -mindepth 1 -maxdepth 1 -type d | wc -l)
-(( dir_count -= 2 ))
+subdir_count=$(find . -mindepth 2 -type d | wc -l)
