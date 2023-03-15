@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A 3 root /etc/passwd > root_info.txt
+grep -A 3 root /etc/passwd
