@@ -1,2 +1,4 @@
 #!/bin/bash
-formatted_num=$(printf "%.2f" $NUM)
+num=$NUM
+formatted_num=$(printf "%.2f" $num)
+echo $formatted_num
