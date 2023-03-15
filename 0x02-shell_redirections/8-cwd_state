@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -la > ls_cwd_content
+
+echo "The ls_cwd_content file has been created or overwritten."
