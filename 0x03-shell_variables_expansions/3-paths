@@ -1,2 +1,2 @@
 #!/bin/bash
-DIR_COUNT=${#PATH_DIRS[@]}
+DIR_COUNT=${PATH_DIRS[@]}
